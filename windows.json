@@ -2,5 +2,5 @@
   "version": "0.1.4",
   "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.4.exe",
   "sha256": "4a3a30e4cf669f506f0aefd02a5dcad79c1a7259287b2eafc942bf9eaa639670",
-  "notes": "Страна определяется сама после подключения и смены сервера, IP больше не показывается"
+  "notes": "Исправления интерфейса"
 }
