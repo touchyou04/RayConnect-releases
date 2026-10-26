@@ -1,6 +1,20 @@
 {
-  "version": "0.1.1",
-  "url": "",
-  "sha256": "",
-  "notes": ""
+  "version": "0.1.2",
+  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-universal.apk",
+  "sha256": "3a7886747c9f5217d6175b03885bcfd1134bc8c672f9cbc91e42dc87c0e00330",
+  "notes": "Первый выпуск RayConnect для Android",
+  "abis": {
+    "arm64-v8a": {
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-arm64-v8a.apk",
+      "sha256": "b988b68df9e78376fab64faa22ab9a187532ad4c53b65b190f5c9368c976a6ba"
+    },
+    "armeabi-v7a": {
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-armeabi-v7a.apk",
+      "sha256": "b0ef3c0f27de8d23a883a39d91249079910d82d80816e22acfb300ccabd27133"
+    },
+    "x86_64": {
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-x86_64.apk",
+      "sha256": "802b70c009b486d439791a84116f0cf172275b6f545353877e02096438aba29e"
+    }
+  }
 }
