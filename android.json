@@ -1,20 +1,20 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-universal.apk",
-  "sha256": "3a7886747c9f5217d6175b03885bcfd1134bc8c672f9cbc91e42dc87c0e00330",
-  "notes": "Первый выпуск RayConnect для Android",
+  "version": "0.1.3",
+  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-universal.apk",
+  "sha256": "489cc95bb045372ff1c82d3bfd23fab7da5ae63c55eb70b1f0ad7a73ba30e7c4",
+  "notes": "Видео в YouTube и Instagram запускается быстрее; описание подписки и время обновления — на главной; главная легче для процессора и удобнее в горизонтальном положении",
   "abis": {
     "arm64-v8a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-arm64-v8a.apk",
-      "sha256": "b988b68df9e78376fab64faa22ab9a187532ad4c53b65b190f5c9368c976a6ba"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-arm64-v8a.apk",
+      "sha256": "baa0596d65ea172f73164504984c88a17180e65a25f96dc3d6dac47939b304be"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-armeabi-v7a.apk",
-      "sha256": "b0ef3c0f27de8d23a883a39d91249079910d82d80816e22acfb300ccabd27133"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-armeabi-v7a.apk",
+      "sha256": "f6648a5483dc578e60d065ef6d4be1a47a1dff98c85ba69d9444e1b13a7835ac"
     },
     "x86_64": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.2/RayConnect-0.1.2-x86_64.apk",
-      "sha256": "802b70c009b486d439791a84116f0cf172275b6f545353877e02096438aba29e"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-x86_64.apk",
+      "sha256": "0837e857e1eaf60b4c101987bdfdc95cf568682781cd991b384c92c624d5eff5"
     }
   }
 }
