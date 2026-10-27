@@ -1,20 +1,20 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-universal.apk",
-  "sha256": "489cc95bb045372ff1c82d3bfd23fab7da5ae63c55eb70b1f0ad7a73ba30e7c4",
-  "notes": "Видео в YouTube и Instagram запускается быстрее; описание подписки и время обновления — на главной; главная легче для процессора и удобнее в горизонтальном положении",
+  "version": "0.1.4",
+  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-universal.apk",
+  "sha256": "47c2499d4c42f152502e7e8a8c7d438b739eff1006f33f27d6f48f2509d12703",
+  "notes": "Снизили нагрузку на процессор",
   "abis": {
     "arm64-v8a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-arm64-v8a.apk",
-      "sha256": "baa0596d65ea172f73164504984c88a17180e65a25f96dc3d6dac47939b304be"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-arm64-v8a.apk",
+      "sha256": "812282316d7454eef7f5522cc8d19abc2bcc4bc5bdfb856423324f42a7a767d3"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-armeabi-v7a.apk",
-      "sha256": "f6648a5483dc578e60d065ef6d4be1a47a1dff98c85ba69d9444e1b13a7835ac"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-armeabi-v7a.apk",
+      "sha256": "12fe7e75062240bd38027bcbbb0f9132c81d5b80a64f69d3391e1ae275dd5ec8"
     },
     "x86_64": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.3/RayConnect-0.1.3-x86_64.apk",
-      "sha256": "0837e857e1eaf60b4c101987bdfdc95cf568682781cd991b384c92c624d5eff5"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-x86_64.apk",
+      "sha256": "a3c51fabdedd25604220778dade5212a6786235e5407239161564b9eccdfc59f"
     }
   }
 }
