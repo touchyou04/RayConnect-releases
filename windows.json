@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.5.exe",
-  "sha256": "6e0bb5e27dbf3d3548f9b2b76b8d2e09691d32249c610e4a4a5739a6fbb6dc64",
-  "notes": "Поиск и иконки в «Приложениях», подписка из буфера обмена"
+  "version": "0.1.6",
+  "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.6.exe",
+  "sha256": "95933b403c20f277886ec4f0a8829357dbfca33e34fbc968f0fd59782dca3827",
+  "notes": "Туннель подключается на компьютерах, где Windows долго создаёт адаптер"
 }
