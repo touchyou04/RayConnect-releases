@@ -1,6 +1,6 @@
 {
-  "version": "0.1.7",
-  "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.7.exe",
-  "sha256": "2237e4241cfe120ab7cae570b6e6bc96ba867da189a07c2b4261ff537fcba10d",
-  "notes": "Туннель сам чинит зависший сетевой адаптер и подключается заново"
+  "version": "0.1.8",
+  "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.8.exe",
+  "sha256": "7ad8b4f1bbf51b5ecc4572e8f0a584e7e366725e572df001d9a70bd5cf48a4df",
+  "notes": "Туннель подключается быстрее: зависший адаптер больше не тормозит подключение"
 }
