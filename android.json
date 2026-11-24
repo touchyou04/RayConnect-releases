@@ -1,20 +1,20 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-universal.apk",
-  "sha256": "47c2499d4c42f152502e7e8a8c7d438b739eff1006f33f27d6f48f2509d12703",
-  "notes": "Снизили нагрузку на процессор",
+  "version": "0.2.0",
+  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-universal.apk",
+  "sha256": "2f3763cfa9e7bc7924e038b4db57e8e26394478016659cabe7f50639872b4545",
+  "notes": "Новая главная, добавление подписки по QR, закрепление серверов",
   "abis": {
     "arm64-v8a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-arm64-v8a.apk",
-      "sha256": "812282316d7454eef7f5522cc8d19abc2bcc4bc5bdfb856423324f42a7a767d3"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-arm64-v8a.apk",
+      "sha256": "e2dd62295ce8a1f3a99f19716de081d0d118fb49dbe1a50535fa264aa23c7618"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-armeabi-v7a.apk",
-      "sha256": "12fe7e75062240bd38027bcbbb0f9132c81d5b80a64f69d3391e1ae275dd5ec8"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-armeabi-v7a.apk",
+      "sha256": "b5c96fef12c1869066bdb99ebf1ab860652ee21d6e62f760a3bdb7d060741fff"
     },
     "x86_64": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.1.4/RayConnect-0.1.4-x86_64.apk",
-      "sha256": "a3c51fabdedd25604220778dade5212a6786235e5407239161564b9eccdfc59f"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-x86_64.apk",
+      "sha256": "3241807572a59a37ed7410487e41e328c797c47e84f396e6c92372e430c96f8f"
     }
   }
 }
