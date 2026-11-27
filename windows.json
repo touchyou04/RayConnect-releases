@@ -1,6 +1,6 @@
 {
-  "version": "0.1.9",
-  "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.9.exe",
-  "sha256": "5ede84e68ba371971337e82536a0350ba41eb8e93839196f9c9ea57138bf9f1e",
-  "notes": "Пинг показывает настоящую задержку через сервер, закрепление серверов, кнопки «Как подключиться?» и «Сообщество» в «Инфо»"
+  "version": "0.1.12",
+  "url": "https://raw.githubusercontent.com/touchyou04/RayConnect-releases/main/windows/RayConnect-Setup-0.1.12.exe",
+  "sha256": "967902d09f05138ba8f721924bb88bd8009fd654f7f7b85e8bb578bc72fc924c",
+  "notes": "Пинг повторяет замер серверов, которые не ответили с первого раза, и легче нагружает старые ПК. Результаты пинга помогают нам следить за серверами — это можно выключить в настройках"
 }
