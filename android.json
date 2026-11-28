@@ -1,20 +1,20 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-universal.apk",
-  "sha256": "2f3763cfa9e7bc7924e038b4db57e8e26394478016659cabe7f50639872b4545",
-  "notes": "Новая главная, добавление подписки по QR, закрепление серверов",
+  "version": "0.2.1",
+  "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.1/RayConnect-0.2.1-universal.apk",
+  "sha256": "67e348e9981409c7cd59e0444ee358dfd43a34dfa96ca9b0a323d86205686147",
+  "notes": "Отчёты о пинге помогают быстрее находить неработающие серверы; кнопка «Поддержка» не наезжает на заголовок",
   "abis": {
     "arm64-v8a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-arm64-v8a.apk",
-      "sha256": "e2dd62295ce8a1f3a99f19716de081d0d118fb49dbe1a50535fa264aa23c7618"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.1/RayConnect-0.2.1-arm64-v8a.apk",
+      "sha256": "e350f587749b4f3b9415fc874aa5f1667153b1439944cc81a4668cbcfbbc1868"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-armeabi-v7a.apk",
-      "sha256": "b5c96fef12c1869066bdb99ebf1ab860652ee21d6e62f760a3bdb7d060741fff"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.1/RayConnect-0.2.1-armeabi-v7a.apk",
+      "sha256": "570f7e54cecaaaec8de1dda6e1d3ee37912f59ad9f3d5e131aae07561b0ff107"
     },
     "x86_64": {
-      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.0/RayConnect-0.2.0-x86_64.apk",
-      "sha256": "3241807572a59a37ed7410487e41e328c797c47e84f396e6c92372e430c96f8f"
+      "url": "https://github.com/touchyou04/RayConnect-releases/releases/download/android-v0.2.1/RayConnect-0.2.1-x86_64.apk",
+      "sha256": "c70f0bde1e79d74fe070dca7719c720fbc107dd3955c1dc7c3d6d91eab6b5692"
     }
   }
 }
